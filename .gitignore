@@ -1,0 +1,11 @@
+/node_modules
+/dist
+/.well-known
+/.env
+/package-lock.json
+/build
+node_modules
+public
+/public
+backend/public
+/backend/public
