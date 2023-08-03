@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b4433b9d.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.d2275a43.js",
+    "static/css/2.fa426b8c.chunk.css": "/static/css/2.fa426b8c.chunk.css",
+    "static/js/2.560aae1b.chunk.js": "/static/js/2.560aae1b.chunk.js",
+    "static/js/3.f3951e33.chunk.js": "/static/js/3.f3951e33.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.b194739f851bebec30d076318d7833c3.js": "/precache-manifest.b194739f851bebec30d076318d7833c3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.560aae1b.chunk.js.LICENSE.txt": "/static/js/2.560aae1b.chunk.js.LICENSE.txt",
+    "static/js/3.f3951e33.chunk.js.LICENSE.txt": "/static/js/3.f3951e33.chunk.js.LICENSE.txt",
+    "static/js/main.b4433b9d.chunk.js.LICENSE.txt": "/static/js/main.b4433b9d.chunk.js.LICENSE.txt",
+    "static/media/chat_notify.mp3": "/static/media/chat_notify.2529c259.mp3",
+    "static/media/logo.png": "/static/media/logo.2ad2d2a4.png",
+    "static/media/logologin.png": "/static/media/logologin.2ad2d2a4.png",
+    "static/media/planilha.xlsx": "/static/media/planilha.549edeba.xlsx",
+    "static/media/sound.mp3": "/static/media/sound.9fd5812c.mp3",
+    "static/media/wa-background.png": "/static/media/wa-background.2675a051.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2275a43.js",
+    "static/css/2.fa426b8c.chunk.css",
+    "static/js/2.560aae1b.chunk.js",
+    "static/js/main.b4433b9d.chunk.js"
+  ]
+}
